@@ -1,0 +1,219 @@
+[
+    {
+        "name": {
+            "common": "Thailand",
+            "official": "Kingdom of Thailand",
+            "nativeName": {
+                "tha": {
+                    "official": "ราชอาณาจักรไทย",
+                    "common": "ประเทศไทย"
+                }
+            }
+        },
+        "tld": [
+            ".th",
+            ".ไทย"
+        ],
+        "cca2": "TH",
+        "ccn3": "764",
+        "cca3": "THA",
+        "cioc": "THA",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "THB": {
+                "name": "Thai baht",
+                "symbol": "฿"
+            }
+        },
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "capital": [
+            "Bangkok"
+        ],
+        "altSpellings": [
+            "TH",
+            "Prathet",
+            "Thai",
+            "Kingdom of Thailand",
+            "ราชอาณาจักรไทย",
+            "Ratcha Anachak Thai"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "languages": {
+            "tha": "Thai"
+        },
+        "translations": {
+            "ara": {
+                "official": "مملكة تايلند",
+                "common": "تايلند"
+            },
+            "bre": {
+                "official": "Rouantelezh Thailand",
+                "common": "Thailand"
+            },
+            "ces": {
+                "official": "Thajské království",
+                "common": "Thajsko"
+            },
+            "cym": {
+                "official": "Kingdom of Thailand",
+                "common": "Thailand"
+            },
+            "deu": {
+                "official": "Königreich Thailand",
+                "common": "Thailand"
+            },
+            "est": {
+                "official": "Tai Kuningriik",
+                "common": "Tai"
+            },
+            "fin": {
+                "official": "Thaimaan kuningaskunta",
+                "common": "Thaimaa"
+            },
+            "fra": {
+                "official": "Royaume de Thaïlande",
+                "common": "Thaïlande"
+            },
+            "hrv": {
+                "official": "Kraljevina Tajland",
+                "common": "Tajland"
+            },
+            "hun": {
+                "official": "Thaiföldi Királyság",
+                "common": "Thaiföld"
+            },
+            "ita": {
+                "official": "Regno di Thailandia",
+                "common": "Tailandia"
+            },
+            "jpn": {
+                "official": "タイ王国",
+                "common": "タイ"
+            },
+            "kor": {
+                "official": "타이 왕국",
+                "common": "태국"
+            },
+            "nld": {
+                "official": "Koninkrijk Thailand",
+                "common": "Thailand"
+            },
+            "per": {
+                "official": "پادشاهی تایلند",
+                "common": "تایلند"
+            },
+            "pol": {
+                "official": "Królestwo Tajlandii",
+                "common": "Tajlandia"
+            },
+            "por": {
+                "official": "Reino da Tailândia",
+                "common": "Tailândia"
+            },
+            "rus": {
+                "official": "Королевство Таиланд",
+                "common": "Таиланд"
+            },
+            "slk": {
+                "official": "Thajské kráľovstvo",
+                "common": "Thajsko"
+            },
+            "spa": {
+                "official": "Reino de Tailandia",
+                "common": "Tailandia"
+            },
+            "srp": {
+                "official": "Краљевина Тајланд",
+                "common": "Тајланд"
+            },
+            "swe": {
+                "official": "Konungariket Thailand",
+                "common": "Thailand"
+            },
+            "tur": {
+                "official": "Tayland Krallığı",
+                "common": "Tayland"
+            },
+            "urd": {
+                "official": "مملکتِ تھائی لینڈ",
+                "common": "تھائی لینڈ"
+            },
+            "zho": {
+                "official": "泰王国",
+                "common": "泰国"
+            }
+        },
+        "latlng": [
+            15,
+            100
+        ],
+        "landlocked": false,
+        "borders": [
+            "MMR",
+            "KHM",
+            "LAO",
+            "MYS"
+        ],
+        "area": 513120,
+        "demonyms": {
+            "eng": {
+                "f": "Thai",
+                "m": "Thai"
+            },
+            "fra": {
+                "f": "Thaïlandaise",
+                "m": "Thaïlandais"
+            }
+        },
+        "flag": "🇹🇭",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2067731"
+        },
+        "population": 69799978,
+        "gini": {
+            "2019": 34.9
+        },
+        "fifa": "THA",
+        "car": {
+            "signs": [
+                "T"
+            ],
+            "side": "left"
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/th.png",
+            "svg": "https://flagcdn.com/th.svg",
+            "alt": "The flag of Thailand is composed of five horizontal bands of red, white, blue, white and red, with the central blue band twice the height of the other four bands."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/th.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/th.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                13.75,
+                100.52
+            ]
+        },
+        "postalCode": {
+            "format": "#####",
+            "regex": "^(\\d{5})$"
+        }
+    }
+]
